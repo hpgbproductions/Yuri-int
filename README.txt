@@ -5,7 +5,7 @@ This is an experimental "interactive wallpaper", a Rainmeter skin that combines 
 
 IMPORTANT: This will only work correctly with a screen size of 1280x720. To make this compatible with other screen sizes, you will need to do a lot of work.
 
-You will need to use a wallpaper of Yuri for this to work. Use the base image found in @Resources.
+You will need to use a wallpaper of Yuri for this to work. Use the base image found in @Resources (recommended), or your choice of "y_cg2".
 
 Run MAIN to use the interactive wallpaper.
 
