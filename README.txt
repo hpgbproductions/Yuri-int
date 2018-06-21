@@ -1,6 +1,9 @@
 Yuri desktop edit
 cmg-simplestuff//hpgbproductions
 
+--- Fan Project, is not affliated with Team Salvato ---
+Official DDLC assets used in accordance to the IP Guidelines: http://teamsalvato.com/ip-guidelines/
+
 This is an experimental "interactive wallpaper", a Rainmeter skin that combines the elements of wallpaper and programmed skins.
 
 IMPORTANT: This will only work correctly with a screen size of 1280x720. To make this compatible with other screen sizes, you will need to do a lot of work.
